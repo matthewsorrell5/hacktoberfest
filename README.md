@@ -1,5 +1,5 @@
 # hacktoberfest
-Hacktoberfest
+Hacktoberfest 2020
 
 Author:
 Matthew Sorrell - Programmer Analyst
