@@ -1,5 +1,5 @@
-# hacktoberfest 2021
-Hacktoberfest 2021
+# hacktoberfest 2022
+Hacktoberfest 2022
 
 Author:
 Matthew Sorrell - Programmer Analyst
